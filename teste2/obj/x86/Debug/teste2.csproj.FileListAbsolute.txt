@@ -7,3 +7,12 @@ c:\users\bruno oliveira\documents\visual studio 2010\Projects\teste2\teste2\obj\
 c:\users\bruno oliveira\documents\visual studio 2010\Projects\teste2\teste2\obj\x86\Debug\GenerateResource.write.1.tlog
 c:\users\bruno oliveira\documents\visual studio 2010\Projects\teste2\teste2\obj\x86\Debug\teste2.exe
 c:\users\bruno oliveira\documents\visual studio 2010\Projects\teste2\teste2\obj\x86\Debug\teste2.pdb
+C:\Users\Bruno Oliveira\Documents\teste2\teste2\obj\x86\Debug\teste2.exe
+C:\Users\Bruno Oliveira\Documents\teste2\teste2\obj\x86\Debug\teste2.pdb
+C:\Users\Bruno Oliveira\Documents\teste2\teste2\bin\Debug\teste2.exe
+C:\Users\Bruno Oliveira\Documents\teste2\teste2\bin\Debug\teste2.pdb
+C:\Users\Bruno Oliveira\Documents\teste2\teste2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bruno Oliveira\Documents\teste2\teste2\obj\x86\Debug\teste2.Form1.resources
+C:\Users\Bruno Oliveira\Documents\teste2\teste2\obj\x86\Debug\teste2.Properties.Resources.resources
+C:\Users\Bruno Oliveira\Documents\teste2\teste2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Bruno Oliveira\Documents\teste2\teste2\obj\x86\Debug\GenerateResource.write.1.tlog
